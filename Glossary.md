@@ -9,3 +9,5 @@ Cherry picking = some downsides
 B branch= merge conflicts to see what happens
 New lines in line with the main branch
 Conflict merger
+git remote -v
+
