@@ -4,3 +4,7 @@ Main branch = most presentable version of the software
 Naming = Feature/<feature_name>
 New branch to add = go to source control
 Cherry picking = some downsides
+
+
+B branch= merge conflicts to see what happens
+New lines in line with the main branch
